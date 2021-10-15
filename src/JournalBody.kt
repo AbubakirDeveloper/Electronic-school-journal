@@ -1,8 +1,8 @@
 /**
  * X.A Technologies, 2021
  * Creator -> Xakimov Abubakir (c)
- * Create data -> 12.10.2021
- * Update data -> 14.10.2021
+ * Create date -> 12.10.2021
+ * Update date -> 14.10.2021
  */
 import java.io.File
 import java.io.PrintWriter
